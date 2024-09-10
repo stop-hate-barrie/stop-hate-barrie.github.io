@@ -36,8 +36,7 @@ Despite ongoing claims that **HOOK** "welcomes individuals from all faiths, nati
 - [Boycott HOOK sponsor Simmering Kettle at 531 Bryne Dr Barrie, ON][boycott]
 
 
-
-## All References Used
+# All References Used
 - [Hate on Display at the 1 Million March 4 Children Rally in Calgary][hateondisplay]
 - [Momentum Canada's Campaign "Facts Over Fear"][factsoverfear]
 - [List of Counter-Protests Across the Country][counter]
@@ -50,6 +49,8 @@ Despite ongoing claims that **HOOK** "welcomes individuals from all faiths, nati
 - [1 Million Voices for Inclusion Resources for Protest Safety & SOGI Education][safety]
 - [Boycott HOOK sponsor Simmering Kettle at 531 Bryne Dr Barrie, ON][boycott]
 
+
+# [Resources for Queer & Trans Folks](resources)
 
 <!-- goals:
 - show sources/embed our video -->

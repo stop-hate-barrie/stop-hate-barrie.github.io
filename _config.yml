@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: 
+title: stop-hate-barrie
 
 # Your name to show in the footer
 author: No Space For Hate
@@ -19,7 +19,8 @@ author: No Space For Hate
 # --- List of links in the navigation bar --- #
 ###############################################
 
-# navbar-links:
+navbar-links:
+  Resources: "resources"
 #   About Me: "aboutme"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
