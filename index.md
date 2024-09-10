@@ -1,46 +1,75 @@
 ---
 layout: page
-title: What's going on?
+title: What is HOOK?
 subtitle: 
 ---
 
-## What is HOOK?
+## About HOOK
 
-**Hands Off Our Kids (HOOK)** is a **Hate Group** Looking to Recruit You.
-[Important Context About The "1 Million March 4 Children"][antihatecontext]
+**Hands Off Our Kids (HOOK)** is a **Hate Group** dedicated to removing all educational content about 2SLGBTQIA+ people from an [already lacking school curriculum][curr].
 
-From their website:
-> “Hands off our kids” is a grassroots movement dedicated to safeguarding parental rights and advocating for the removal of intrusive elements of sexual orientation and gender ideology from the educational system.
-
-HOOK's goal is to remove education about gender and sexual orientation from the [already lacking curriculum][curr].
-This is an organization that has time and again shown hatred towards the transgender community and the 2SLGBTQIA+ community as a whole. HOOK is leveraging people's lack of understanding of transgender people to push their far-right agenda. [The key organizer](#about-the-founder-of-hook) is nationalistic, transphobic, homophibic and anti-semetic conspiracy theorist who's ultimate goal is the irradication of not just transgender people, but several other groups as well.
+**HOOK** operates under the guise of a non-profit organization "safeguarding children’s rights" while actively platforming [hate speech at rallies][antihatecontext]. They create and circulate content demonizing 2SLGBTQIA+ people as a threat to children.
 
 
-Below are more resources that expose HOOK for what it really is.
+### About the 1 Million March 4 Children
 
+HOOK is once again behind the [1 Million March 4 Children][arrests] demonstrations planned at legislatures, city halls, and school board offices across the country on September 20th. These demonstrations seek to [eliminate Sexual Orientation and Gender Identity][antihatecontext] (SOGI) curriculum and policies from Canadian schools. They build on the rhetoric of US right-wing extremist organizations and the anti-gay crusaders who came before them to [recruit unsuspecting parents][parentgroomers].
 
+### About The Organizers
+Despite ongoing claims that **HOOK** "welcomes individuals from all faiths, nationalities, and cultural backgrounds", founder Kamel El-Cheikh has promoted his movement on predominantly far-right channels, including *Krayden's Right*, the *Alex Saz Show*, *Clyde Do Something*, *LifeSiteNews* (LSN) and *Laura-Lynn.tv*. On August 26th, 2024, he celebrated going on air with **white supremacist conspiracy theorist** Stew Peters of the eponymous [*Stew Peters Network*][stew].
 
-## Articles
-- [Hate on Display at the 1 Million March 4 Children Rally in Calgary](https://www.antihate.ca/hate_on_display_at_the_1_million_march_4_children_rally_in_calgary)
-- [Facts Over Fear](https://www.momentumcanada.net/factsoverfear)
-- [List of Counter-Protests Across the Country](https://docs.google.com/document/u/0/d/1mLQPr7McoUKosGXsBpmjsfoBcRXcTbUrCuUdHyggiYs/mobilebasic)
+**(Note: We have avoided providing direct links to the channels of influencers and news pundits mentioned in this section because they produce a significant volume of content promoting hatred towards marginalized groups. Please keep this in mind when doing your own research.)**
+
+## What Can I Do About It?
+
+### 1. Know the facts so you can't be fooled.
+- [The World Professional Association for Transgender Health (WPATH)][wpath]
 - [Ontario Reverts to 1998 Sex-Ed Curriculum in a Win for ‘Trump-Like’ Premier Doug Ford][curr]
-- [(Ontario.ca) Human Development and Sexual Health education by grade](https://www.ontario.ca/document/health-and-physical-education-grades-1-8/human-development-and-sexual-health-education-grade)
+- [ARC Foundation's SOGI Education Initiative][1millinc]
+- [Sex Information & Education Council of Canada (SIECCAN) Guidelines][sieccan]
+- [1 Million Voices for Inclusion Collection of Articles on anti-LGBTQIA Hate Movements][1millanti]
+
+### 2. Join your neighbours to get HOOK out of town!
+- [List of Counter-Protests Across the Country][counter]
+- [1 Million Voices for Inclusion Resources for Protest Safety & SOGI Education][safety]
+- [Momentum Canada's Campaign "Facts Over Fear"][factsoverfear]
+- [Boycott HOOK sponsor Simmering Kettle at 531 Bryne Dr Barrie, ON][boycott]
 
 
-## About the Key Organizer of HOOK
-In his most recent Tiktok video (as of August 26th) El-Cheikh celebrates getting on air with white nationalist [Stew Peters](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://en.wikipedia.org/wiki/Stew_Peters%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1725745922544592%26amp;usg%3DAOvVaw1NMkrRF2i-JL52iixTf7K4&sa=D&source=docs&ust=1725745922570157&usg=AOvVaw0WTFspgFJRLL7eJznylxL4). 
 
-It inherently ties Israeli apartheid/genocide in Palestine with Jewish world domination  i.e. “the satanic Jews control the world just as Israel controls the United States” and strongly implies “the Jews” are also responsible for “gender ideology in our schools” and “the woke.” 
-
-Interestingly, El-Cheikh is simultaneously doing interviews where he claims to “love all religions, even Jews” with Canadian alti-right youtubers. He seems to play to any audience that will have him.
-
+## All References Used
+- [Hate on Display at the 1 Million March 4 Children Rally in Calgary][hateondisplay]
+- [Momentum Canada's Campaign "Facts Over Fear"][factsoverfear]
+- [List of Counter-Protests Across the Country][counter]
+- [Ontario Reverts to 1998 Sex-Ed Curriculum in a Win for ‘Trump-Like’ Premier Doug Ford][curr]
+- [(Ontario.ca) Human Development and Sexual Health education by grade][ontariocurr]
+- [The World Professional Association for Transgender Health (WPATH)][wpath]
+- [ARC Foundation's SOGI Education Initiative][1millinc]
+- [Sex Information & Education Council of Canada (SIECCAN) Guidelines][sieccan]
+- [1 Million Voices for Inclusion Collection of Articles on anti-LGBTQIA Hate Movements][1millanti]
+- [1 Million Voices for Inclusion Resources for Protest Safety & SOGI Education][safety]
+- [Boycott HOOK sponsor Simmering Kettle at 531 Bryne Dr Barrie, ON][boycott]
 
 
 <!-- goals:
-- explain what HOOK is
-- 
 - show sources/embed our video -->
+
+<!-- Not sure how to fit this in?  -->
+[united]: broadview.org/united-churches-protect-lgbtq2s-kids-trans-hate/
 
 [curr]: https://time.com/5336534/ontario-sex-education-doug-ford/
 [antihatecontext]: https://www.antihate.ca/1_million_march_4_children
+[arrests]: broadview.org/united-churches-protect-lgbtq2s-kids-trans-hate/
+[hateondisplay]: https://www.antihate.ca/hate_on_display_at_the_1_million_march_4_children_rally_in_calgary
+[parentgroomers]: https://theconversation.com/how-the-parental-rights-movement-gave-rise-to-the-1-million-march-4-children-213842
+[stew]: https://en.wikipedia.org/wiki/Stew_Peters
+[wpath]: www.wpath.org/
+[ontariocurr]: www.ontario.ca/document/health-and-physical-education-grades-1-8/human-development-and-sexual-health-education-grade
+[1millinc]: 1millionvoicesforinclusion.ca/resources/
+[sieccan]: www.sieccan.org
+[1millanti]: raindrop.io/protectourprovince/1-mvfi-38460800
+
+[counter]: https://docs.google.com/document/u/0/d/1mLQPr7McoUKosGXsBpmjsfoBcRXcTbUrCuUdHyggiYs/mobilebasic
+[safety]: 1millionvoicesforinclusion.ca/resources/
+[factsoverfear]: www.momentumcanada.net/factsoverfear
+[boycott]: www.simmeringkettle.ca/menu
