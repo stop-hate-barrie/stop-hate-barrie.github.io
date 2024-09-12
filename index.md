@@ -3,7 +3,6 @@ layout: page
 title: What is HOOK?
 subtitle: 
 ---
-
 ## About HOOK
 
 **Hands Off Our Kids (HOOK)** is a **Hate Group** dedicated to removing all educational content about 2SLGBTQIA+ people from an [already lacking school curriculum][curr].
