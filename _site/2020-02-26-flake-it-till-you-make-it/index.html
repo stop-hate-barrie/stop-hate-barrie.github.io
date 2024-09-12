@@ -135,12 +135,6 @@
     <ul class="navbar-nav ml-auto">
       <li class="nav-item">
         <a class="nav-link" href="/resources">Resources for Queer & Trans Folks</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" id="nav-search-link" href="#" title="Search">
-          <span id="nav-search-icon" class="fa fa-search"></span>
-          <span id="nav-search-text">Search</span>
-        </a>
       </li></ul>
   </div>
 
@@ -149,86 +143,6 @@
   
 
 </nav>
-
-
-
-<div id="beautifuljekyll-search-overlay">
-
-  <div id="nav-search-exit" title="Exit search">✕</div>
-  <input type="text" id="nav-search-input" placeholder="Search">
-  <ul id="search-results-container"></ul>
-  
-  <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
-  <script>
-    var searchjson = '[ \
-       \
-        { \
-          "title"    : "Sample blog post to learn markdown tips", \
-          "desc"     : "Sample blog post to learn markdown tips", \
-          "category" : "test", \
-          "url"      : "/2020-02-28-sample-markdown/", \
-          "date"     : "February 28, 2020" \
-        }, \
-       \
-        { \
-          "title"    : "Flake it till you make it", \
-          "desc"     : "Flake it till you make it", \
-          "category" : "bookstest", \
-          "url"      : "/2020-02-26-flake-it-till-you-make-it/", \
-          "date"     : "February 26, 2020" \
-        }, \
-       \
-       \
-        { \
-          "title"    : "About me", \
-          "desc"     : "About me", \
-          "category" : "page", \
-          "url"      : "/aboutme/", \
-          "date"     : "January 1, 1970" \
-        }, \
-       \
-        { \
-          "title"    : "What&#39;s going on?", \
-          "desc"     : "What&#39;s going on?", \
-          "category" : "page", \
-          "url"      : "/", \
-          "date"     : "January 1, 1970" \
-        }, \
-       \
-        { \
-          "title"    : "What is HOOK?", \
-          "desc"     : "What is HOOK?", \
-          "category" : "page", \
-          "url"      : "/", \
-          "date"     : "January 1, 1970" \
-        }, \
-       \
-        { \
-          "title"    : "Resources for Queer &amp; Trans Folks", \
-          "desc"     : "Resources for Queer &amp; Trans Folks", \
-          "category" : "page", \
-          "url"      : "/resources/", \
-          "date"     : "January 1, 1970" \
-        }, \
-       \
-        { \
-          "title"    : "Tag Index", \
-          "desc"     : "Tag Index", \
-          "category" : "page", \
-          "url"      : "/tags/", \
-          "date"     : "January 1, 1970" \
-        } \
-       \
-    ]';
-    searchjson = JSON.parse(searchjson);
-
-    var sjs = SimpleJekyllSearch({
-      searchInput: document.getElementById('nav-search-input'),
-      resultsContainer: document.getElementById('search-results-container'),
-      json: searchjson
-    });
-  </script>
-</div>
 
 
 

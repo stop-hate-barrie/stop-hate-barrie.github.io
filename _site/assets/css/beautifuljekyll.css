@@ -33,9 +33,6 @@ body {
   position: relative;
   background-color: var(--page-col);
   
-  background-image: url(/assets/img/fence2.jpeg);
-  background-attachment: fixed;
-  
   overflow-wrap: break-word;
   min-height: 100vh;
   display: flex;
