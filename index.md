@@ -8,7 +8,7 @@ subtitle:
 
 **Hands Off Our Kids (HOOK)** is a **Hate Group** dedicated to removing all educational content about 2SLGBTQIA+ people from an [already lacking school curriculum][curr].
 
-**HOOK** operates under the guise of a non-profit organization "safeguarding children’s rights" while actively platforming [hate speech at rallies][antihatecontext]. They create and circulate content demonizing 2SLGBTQIA+ people as a threat to children.
+**HOOK** operates under the guise of a non-profit organization "safeguarding children’s rights" while actively platforming [hate speech at rallies][hateondisplay]. They [create and circulate content demonizing 2SLGBTQIA+ people as a threat to children.][united]
 
 
 ### About the 1 Million March 4 Children
@@ -48,6 +48,7 @@ Despite ongoing claims that **HOOK** "welcomes individuals from all faiths, nati
 - [1 Million Voices for Inclusion Collection of Articles on anti-LGBTQIA Hate Movements][1millanti]
 - [1 Million Voices for Inclusion Resources for Protest Safety & SOGI Education][safety]
 - [Boycott HOOK sponsor Simmering Kettle at 531 Bryne Dr Barrie, ON][boycott]
+- [Stew Peters][stew]
 
 
 # [Resources for Queer & Trans Folks](resources)
@@ -56,7 +57,7 @@ Despite ongoing claims that **HOOK** "welcomes individuals from all faiths, nati
 - show sources/embed our video -->
 
 <!-- Not sure how to fit this in?  -->
-[united]: broadview.org/united-churches-protect-lgbtq2s-kids-trans-hate/
+[united]: https://www.winnipegfreepress.com/breakingnews/2023/09/21/seven-oaks-students-absent-amid-fearmongering-social-media-messages
 
 [curr]: https://time.com/5336534/ontario-sex-education-doug-ford/
 [antihatecontext]: https://www.antihate.ca/1_million_march_4_children
